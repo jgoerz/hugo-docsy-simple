@@ -65,6 +65,8 @@ description = "Description for simple template docsy site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
+time_format_default = "2006.01.02"
+time_format_blog = "2006.01.02"
 # [languages.no]
 # title = "Goldydocs"
 # description = "Docsy er operativsystem for skyen"
